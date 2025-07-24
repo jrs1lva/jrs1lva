@@ -1,5 +1,5 @@
-## Fala galera, chega mais!
-# Prazer, me chamo Adailton Júnior, mas podem me chamar apenas de Júnior, Jota ou Jr, como preferirem.
+# Fala galera, chega mais!
+## Prazer, me chamo Adailton Júnior, mas podem me chamar apenas de Júnior, Jota ou Jr, como preferirem.
 
 Curso Engenharia de Software na UCSAL
 As tecnologias que estou aprendendo/domino são: HTML, CSS, JavaScript, Node.js, Python, Java

@@ -1,12 +1,13 @@
-# Fala galera, chega mais!
+# 👋🏽 Fala galera, chega mais!
 Prazer, me chamo Adailton Júnior, mas podem me chamar apenas de Júnior, Jota ou Jr, como preferirem. 😄
 
-🎓 Curso **Engenharia de Software** na **Universidade Católica de Salvador (UCSAL)**  
-📍 Moro em **Salvador/BA**
+-👨🏽‍💻 Atualmente, estou cursando Engenharia de Software na UCSAL, construindo uma base sólida em desenvolvimento frontend e backend com tecnologias como HTML5, CSS, JavaScript, Node.js, Python e Java.
+-💡 Amo música **(toco bateria 🥁)**, futebol, cachorros 🐶, minha família, amigos e minha namorada ❤️
+-⚡ Busco minha primeira oportunidade profissional para colocar em prática o que venho aprendendo, ganhar experiência e contribuir de forma verdadeira com projetos e com o time.
 
 ---
 
-### 🚀 Tecnologias que estou aprendendo e/ou já domino:
+### 🚀 Tecnologias e ferramentas
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,19 +20,16 @@ Prazer, me chamo Adailton Júnior, mas podem me chamar apenas de Júnior, Jota o
 
 ---
 
-### 📬 Contato
+<div>
+<a href="https://github.com/jrs1lva">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrs1lva&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jrs1lva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+---
+
+### 🌐 Conecte-se comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jr-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jr_s1lva)
 [![Gmail](https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adailtonjunior0604@gmail.com)
-
----
-
-### 👇 Sobre mim:
-
-- 🤔 Estou procurando ajuda com os meus projetos — feedbacks, sugestões e melhorias são super bem-vindos!
-- ⚡ **Curiosidade aleatória**: amo música (toco bateria 🥁), futebol, cachorros 🐶, minha família, amigos e minha namorada ❤️
-
----
-
-Valeu por colar aqui! 🚀

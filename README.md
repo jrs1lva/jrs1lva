@@ -27,7 +27,6 @@ Prazer, me chamo Adailton Júnior, mas podem me chamar apenas de Júnior, Jota o
 <div>
 <a href="https://github.com/jrs1lva">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrs1lva&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jrs1lva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 

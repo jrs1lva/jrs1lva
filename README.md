@@ -1,5 +1,5 @@
 # 👋🏽 Fala galera, chega mais!
-Prazer, me chamo Adailton Júnior, mas podem me chamar apenas de Júnior, Jota ou Jr, como preferirem.
+Prazer, me chamo Adailton Júnior, mas podem me chamar de Jr.
 
 - 👨🏽‍💻 Atualmente, estou cursando Engenharia de Software na UCSAL, construindo uma base sólida em desenvolvimento frontend e backend com tecnologias como HTML5, CSS, JavaScript, Node.js, Python e Java.
 - 💡 Amo música **(toco bateria 🥁)**, futebol, cachorros, minha família, amigos e minha namorada ❤️
